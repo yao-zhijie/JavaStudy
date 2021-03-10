@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="HomeWork0308:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/HomeWork0308_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="HomeWork0308/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="HomeWork0308" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
